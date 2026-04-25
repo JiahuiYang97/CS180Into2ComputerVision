@@ -2,4 +2,4 @@
 
 Project report on diffusion model applications, including image generation, denoising, classifier-free guidance, image editing, and visual anagrams.
 
-**Live page:** https://jiahuiyang97.github.io/CS180Into2ComputerVision/
+**Live page:** https://jiahuiyang97.github.io/diffusion-flow-matching/
